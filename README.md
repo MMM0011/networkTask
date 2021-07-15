@@ -11,15 +11,15 @@ The application must transfer information from the "client" to "server" and vice
 
 
 
-// make project
+# make project
 make 
 
-//create 2 shell 
+#create 2 shell 
 
-// In first shell(1) start Server 
+# In first shell(1) start Server 
 ./clientServer Server
 
-// In second shell(2) start Client
+# In second shell(2) start Client
 ./clientServer Client
 
-// Now you can send data to/from Server/Client
+# Now you can send data to/from Server/Client
